@@ -14,7 +14,7 @@
   "dependencies": {
     "@storybook/addon-knobs": "^5.2.5",
     "core-js": "^3.3.2",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vuex": "^3.1.1"
   },
   "devDependencies": {
